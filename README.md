@@ -39,7 +39,7 @@ Follow these steps to run the project locally:
 ## Author
 Naimot Yekini
 - Savonia University of Applied Sciences
-- Information Technology, IOT
+- Information Technology, IOT Student
 
 
 
