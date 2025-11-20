@@ -21,18 +21,23 @@ This app allows users to **record expenses**, **categorize spending**, **view re
 - Real-time spending distribution  
 - Helps users understand where their money goes  
 
+##Technologies Used
+   - Python 3
+   - Flet
+   - Datetime (for timestamping entries)
 
 
 ## 🚀 Getting Started
 
 Follow these steps to run the project locally:
+## How to Run
+1. Install Flet:
+   ```bash
+   pip install flet
+2. Run the app:
+    ```bash
+    python main.py
 
-### 1. Clone the Repository  
-  ``bash
-  git clone https://github.com/yourusername/expense-tracker-flet.git
-  cd expense-tracker-flet
-  
-## pip install flet
-   python main.py
+
 
 
