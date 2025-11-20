@@ -1,25 +1,22 @@
 # ExpenseTracker (Flet UI)
 
 A **modern, lightweight Daily Expense Tracking application** built with **Flet** (Python UI framework).  
-This app allows users to **record expenses**, **categorize spending**, **view records in a clean table**, and **visualize spending distribution** using a dynamic **Pie Chart**.
-
----
+Users can record expenses in predefined categories, view them in a clean table, and visualize spending distribution using a dynamic Pie Chart.
+This project demonstrates practical use of:
+ - Flet UI components (TextFields, Dropdown, Containers, Rows, Columns)
+ - DataTable for listing expenses
+ - PieChart for visual analytics
+ - Dynamic UI updates using event handlers
+ - Clean and responsive layout suitable for desktop & web
 
 ## Features
+Add New Expense
+Users can enter:
+- Category (Food, Shopping, Transport, Utilities)
+- Amount
+- Description (optional)
 
-### Record Expenses  
-- Enter amount, description, and category  
-- Save entries instantly  
-- Categories include: Food, Transport, Bills, Shopping, Others  
 
-### Organized Data Table  
-- Clean DataTable layout  
-- Displays all recorded expenses  
-- Automatically updates when new entries are added  
-
-### Visual Pie Chart  
-- Real-time spending distribution  
-- Helps users understand where their money goes  
 
 ##Technologies Used
    - Python 3
@@ -27,7 +24,7 @@ This app allows users to **record expenses**, **categorize spending**, **view re
    - Datetime (for timestamping entries)
 
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these steps to run the project locally:
 ## How to Run
@@ -37,6 +34,14 @@ Follow these steps to run the project locally:
 2. Run the app:
     ```bash
     python main.py
+
+
+## Author
+Naimot Yekini
+- Savonia University of Applied Sciences
+- IoT and Cloud Engineering Student
+
+
 
 
 
